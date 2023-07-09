@@ -1,0 +1,22 @@
+.content{
+    display: flex;
+    justify-content: space-evenly;
+    background: aliceblue;
+    align-items: center;
+    margin-bottom: 10px;
+    width:100%;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+img{
+    border-radius: 48px;
+    width: 16%;
+    height: 10%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+.right-side{
+    width: 33%;
+}
